@@ -153,35 +153,22 @@ Below we provide an <b>example roadmap</b>. For each milestone:
 
 #### Overview
 
-| Milestone | 1 | 2 | 3 | Milestone 4 | Milestone 5 | Milestone 6 | Total |
-| - | - |- | - | - | - |
+| Milestone | 1 | 2 | 3 | 4 | 5 | 6 | Total |
+| - | - | - | - | - | - | - | - |
 | Estimated Duration | 25 d | 10 d | 25 d | 25 d | 15 d | 10 d |
 | Full-time equivalent (FTE) | 5 | 5 | 5 | 5 | 5 | 5 |
-| Cost (up to $ 30,000) | $ 7800 | $ 1250 | $ 6250 | $ 4800 | $ 3750 | $ 6150 |
+| $ 30,000 | $ 7800 | $ 1250 | $ 6250 | $ 4800 | $ 3750 | $ 6150 |
 
 #### Milestone 1 — Creation and testing of smart contracts for the IDO launchpad
 
 | Number | Deliverable | Specification |
 |-|-|-|
-| 1.| License | Creation and testing of smart contracts for the IDO launchpad:
-1. Users can contribute for IDOs in which they are whitelisted as per their allocation  
-2. After contributing for the IDO, users will get a unique NFT minted and dropped to their wallet
-3. They can claim their tokens after TGE as per the vesting schedule
- |
-| 2. | UI designs for the website
-Responsive designs (mobile/tablet/personal computer) for all pages
-Home page displaying all IDOs, individual project page, user profile page 
- | We will provide both inline documentation of the code and a basic tutorial that can interact with the deployed smart contracts and backend service. |
-| 3. | UI development | Home page showing all IDOs (past, live & upcoming)
-Individual project page will show details about the project, whitelist application / results, and the option to buy allocation and claim tokens as per vesting
-User profile page will show all the projects in which the connected wallet has allocation, and all the NFTs owned by investing in IDOs
- |
-| 1 | Smart Contracts | We will develop smart contracts that will...  (Please list the functionality that will be coded for the contracts) |
-| 2 | Backend | "We will create a backend service that will... (Please list the functionality that will be coded for the backend)" |
-
-#### Milestone 2  —  Frontend
-
-...
+| 1| License | Creation and testing of smart contracts for the IDO launchpad | |
+| 2 | UI designs for the website | |
+| 3 | UI development |  |
+| 4 | API creation and database creation and management | |
+| 5 | Smart contract integration with the platform using ABIs | |
+| 6 | NFT Artists | |
 
 #### Community engagement
 
