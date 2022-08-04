@@ -163,10 +163,8 @@ Below we provide an <b>example roadmap</b>. For each milestone:
 
 | Number | Deliverable | Specification |
 |-|-|-|
-| 1| Creation and testing of smart contracts for the IDO launchpad | 1.Users can contribute for IDOs in which they are whitelisted as per their allocation, 
-2.After contributing for the IDO, users will get a unique NFT minted and dropped to their wallet, 3.They can claim their tokens after TGE as per the vesting schedule
- |
-| 2 | UI designs for the website | 1.Responsive designs (mobile/tablet/personal computer) for all pages,2.Home page displaying all IDOs, individual project page, user profile page |
+| 1| Creation and testing of smart contracts for the IDO launchpad | 1.Users can contribute for IDOs in which they are whitelisted as per their allocation; 2.After contributing for the IDO, users will get a unique NFT minted and dropped to their wallet, 3.They can claim their tokens after TGE as per the vesting schedule|
+| 2 | UI designs for the website | 1.Responsive designs (mobile/tablet/personal computer) for all pages, 2.Home page displaying all IDOs, individual project page, user profile page |
 | 3 | UI development | 1.Home page showing all IDOs (past, live & upcoming), 2.Individual project page will show details about the project, whitelist application / results, and the option to buy allocation and claim tokens as per vesting, 3.User profile page will show all the projects in which the connected wallet has allocation, and all the NFTs owned by investing in IDOs|
 | 4 | API creation and database creation and management | 1.Database for storing various details to be shown on the platform, including whitelisting for IDOs,2.APIs for fetching and displaying data on the platform|
 | 5 | Smart contract integration with the platform using ABIs | |
