@@ -75,6 +75,7 @@ Therefore, we ask the teams to submit (where relevant):
 - An overview of the technology stack to be used
 - Documentation of core components, protocols, architecture, etc. to be deployed
 - PoC/MVP or other relevant prior work or research on the topic
+
 Please refer to [www.genshards.com](https://www.genshards.com/)
 
 
@@ -148,22 +149,29 @@ Below we provide an <b>example roadmap</b>. For each milestone:
 - Please commit to providing dockerfiles for the delivery of your project.
 
 
-### Example Roadmap for a dApp Application
+### Roadmap for NFTized IDO launchpad
 
 #### Overview
 
-|  | Milestone 1 | Milestone 2 | Total |
+|  | Milestone 1 | Milestone 2 | Milestone 3 | Milestone 4 | Milestone 5 | Milestone 6 | Total |
 | - | - |- | - |
-| Estimated Duration | 30 d | 30 d | 60 d |
-| Full-time equivalent (FTE) | 2 | 1 | 3 |
-| Cost (up to $ 30,000) | $ 5,000 | $ 10,000 | $ 15,000|
+| Estimated Duration | 25 d | 10 d | 25 d | 25 d | 15 d | 10 d |
+| Full-time equivalent (FTE) | 5 | 5 | 5 | 5 | 5 | 5 |
+| Cost (up to $ 30,000) | $ 7800 | $ 1250 | $ 6250 | $ 4800 | $ 3750 | $ 6150 |
 
 #### Milestone 1 — Smart Contract & Backend
 
 | Number | Deliverable | Specification |
 |-|-|-|
-| 0a.| License | Apache 2.0 / MIT / Unlicense |
-| 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that can interact with the deployed smart contracts and backend service. |
+| 1.| License | Creation and testing of smart contracts for the IDO launchpad:
+1. Users can contribute for IDOs in which they are whitelisted as per their allocation  
+2. After contributing for the IDO, users will get a unique NFT minted and dropped to their wallet
+3. They can claim their tokens after TGE as per the vesting schedule
+ |
+| 0b. | UI designs for the website
+Responsive designs (mobile/tablet/personal computer) for all pages
+Home page displaying all IDOs, individual project page, user profile page 
+ | We will provide both inline documentation of the code and a basic tutorial that can interact with the deployed smart contracts and backend service. |
 | 0c. | Testing Guide | The code will have proper unit-test coverage (e.g. 90%) to ensure functionality and robustness. In the guide, we will describe how to run these tests |
 | 1 | Smart Contracts | We will develop smart contracts that will...  (Please list the functionality that will be coded for the contracts) |
 | 2 | Backend | "We will create a backend service that will... (Please list the functionality that will be coded for the backend)" |
@@ -176,9 +184,19 @@ Below we provide an <b>example roadmap</b>. For each milestone:
 
 As part of the Program, we require that you produce and publish at least one article/tutorial (e.g., on Medium). It should explain your work done as part of the grant.
 
+Surely, we will publish regular updates.
+
+The broad narrative is to evangelize the use of the blockchain while improving the user journey by reducing friction. We will achieve this by:
+- Encouraging more projects to #BUIDL while adopting the blockchain. This will compound the effectiveness of network activity and growth as both projects and their communities are incentivized throughout the product journey.
+- Increased liquidity and early investment opportunities for communities built around our IDOpad, NFT marketplace and staking options. This will result in building reputation with crypto native audiences and will onboard new users.
+- Making powerful new partnerships by leveraging our new additions to technology, marketing and extensive Web3 network.
+
+
 ## Future Plans
 
 Please include the team's long-term plans and intentions.
+
+Genesis Shards has started a new educational/upskilling Web 3.00 platform called “TFH3”. TFH3 is a Web3-focused edu-tech project aimed at equipping the next one-million Web 3.0 participants with the necessary skills. The project aims to address and tackle the lack of quality talent in the Web3 ecosystem which stems from a disparate, fragmented way by which Web3 skilling and earning opportunities are discovered by potential participants. The project also aims to ease Web3 organizations' ever-increasing pain of attracting and evaluating the right talent, and also open up channels for meaningful conversations between the Web3 organizations as well as the participants.
 
 ## Additional Information 
 
@@ -188,3 +206,24 @@ Possible additional information to include:
 - What work has been done so far?
 - Are there any teams who have already contributed (financially) to the project?
 - Have you applied for other grants so far?
+
+
+As an L1 ecosystem, it is imperative that result-oriented connections are built within the Web 3.0 space. To enable this, we have created the Alliance Guild to help bring together portfolio companies and select Web3 partners.
+
+The GS Alliance Guild currently has a comprehensive network of over 150+ blockchain projects, access partners (top VCs and hedge funds), a trending global KOL/influencer network and top-tier mentors in the crypto space. 
+
+The Guild's goal is simple - to maximize the potential of our partners and to build a stable community that contributes to its members' growth while sharing:
+- Deal Flows
+- Partnership Opportunities
+- Private sale pitches
+- AMA & Podcast opportunities
+- Upcoming events & insider leaks
+
+MARKETING BENEFITS
+- Building, growing and maintaining communities
+- Effective marketing campaigns on both crypto native and normal channels
+- Cost-effective PR plans
+- A 250+ trending KOL and influencer network
+- Joint AMAs and podcasts on trending channels
+- Advertisements on web 3.00 related affiliate networks and websites.
+- Perception management with experienced community managers involved
