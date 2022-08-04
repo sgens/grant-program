@@ -153,7 +153,7 @@ Below we provide an <b>example roadmap</b>. For each milestone:
 
 #### Overview
 
-|  | Milestone 1 | Milestone 2 | Milestone 3 | Milestone 4 | Milestone 5 | Milestone 6 | Total |
+| Milestone | 1 | 2 | 3 | Milestone 4 | Milestone 5 | Milestone 6 | Total |
 | - | - |- | - | - | - |
 | Estimated Duration | 25 d | 10 d | 25 d | 25 d | 15 d | 10 d |
 | Full-time equivalent (FTE) | 5 | 5 | 5 | 5 | 5 | 5 |
