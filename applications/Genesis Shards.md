@@ -159,7 +159,7 @@ Below we provide an <b>example roadmap</b>. For each milestone:
 | Full-time equivalent (FTE) | 5 | 5 | 5 | 5 | 5 | 5 ||
 | Cost | $ 7800 | $ 1250 | $ 6250 | $ 4800 | $ 3750 | $ 6150 | $30,000 |
 
-#### Milestone 1 — Creation and testing of smart contracts for the IDO launchpad
+#### Milestones
 
 | Number | Deliverable | Specification |
 |-|-|-|
